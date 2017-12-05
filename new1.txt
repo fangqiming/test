@@ -4,3 +4,5 @@ create a new branch is quick and simple
 Create a new branch is quick AND simple
 
 test bug branch
+
+no bug
